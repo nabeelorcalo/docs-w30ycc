@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-9me8xf.idncuan.xyz/sitemap.xml
